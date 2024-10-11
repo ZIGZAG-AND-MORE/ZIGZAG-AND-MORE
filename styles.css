@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(228, 106, 218);
+    font-family: 'Indie Flower', cursive;
+}
+
+h1 {
+    color: #a73b76;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 60px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+#spring {
+    width: 500px;
+    height: 450px;
+    border-radius: 50px;
+}
